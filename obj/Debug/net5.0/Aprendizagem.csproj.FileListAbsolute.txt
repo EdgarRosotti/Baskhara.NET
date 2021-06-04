@@ -1,0 +1,16 @@
+C:\Users\edgar\Desktop\Aprendizagem\bin\Debug\net5.0\Aprendizagem.exe
+C:\Users\edgar\Desktop\Aprendizagem\bin\Debug\net5.0\Aprendizagem.deps.json
+C:\Users\edgar\Desktop\Aprendizagem\bin\Debug\net5.0\Aprendizagem.runtimeconfig.json
+C:\Users\edgar\Desktop\Aprendizagem\bin\Debug\net5.0\Aprendizagem.runtimeconfig.dev.json
+C:\Users\edgar\Desktop\Aprendizagem\bin\Debug\net5.0\Aprendizagem.dll
+C:\Users\edgar\Desktop\Aprendizagem\bin\Debug\net5.0\ref\Aprendizagem.dll
+C:\Users\edgar\Desktop\Aprendizagem\bin\Debug\net5.0\Aprendizagem.pdb
+C:\Users\edgar\Desktop\Aprendizagem\obj\Debug\net5.0\Aprendizagem.csproj.AssemblyReference.cache
+C:\Users\edgar\Desktop\Aprendizagem\obj\Debug\net5.0\Aprendizagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edgar\Desktop\Aprendizagem\obj\Debug\net5.0\Aprendizagem.AssemblyInfoInputs.cache
+C:\Users\edgar\Desktop\Aprendizagem\obj\Debug\net5.0\Aprendizagem.AssemblyInfo.cs
+C:\Users\edgar\Desktop\Aprendizagem\obj\Debug\net5.0\Aprendizagem.csproj.CoreCompileInputs.cache
+C:\Users\edgar\Desktop\Aprendizagem\obj\Debug\net5.0\Aprendizagem.dll
+C:\Users\edgar\Desktop\Aprendizagem\obj\Debug\net5.0\ref\Aprendizagem.dll
+C:\Users\edgar\Desktop\Aprendizagem\obj\Debug\net5.0\Aprendizagem.pdb
+C:\Users\edgar\Desktop\Aprendizagem\obj\Debug\net5.0\Aprendizagem.genruntimeconfig.cache
